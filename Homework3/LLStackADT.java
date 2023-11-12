@@ -1,5 +1,3 @@
-package homework3;
-
 //Linked List implementation of Stack ADT
 public class LLStackADT {
 
