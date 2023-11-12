@@ -1,5 +1,3 @@
-package homework3;
-
 //Node class to be used for building Linked Lists
 public class LLNode {
 
