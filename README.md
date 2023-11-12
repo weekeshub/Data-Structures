@@ -6,6 +6,7 @@ Projects 1, 2, and 4 are all about building an efficient sorting framework and a
   - Each version of the framework was tested with 6 data sets:
       - 3 sets with numbers 1-16: one already sorted, one randomly sorted, and one reverse sorted.
       - 3 sets with numbers 1-2000: one already sorted, one randomly sorted, and one reverse sorted.
+
 Project 3 is a program that converts a mathematical expression from infix form to postfix form.
 
 More about 1, 2, and 4:
