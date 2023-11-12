@@ -10,6 +10,7 @@ Projects 1, 2, and 4 are all about building an efficient sorting framework and a
 Project 3 is a program that converts a mathematical expression from infix form to postfix form.
 
 More about 1, 2, and 4:
-Project 1 includes three basic sorting algorithms: bubble, selection, and insertion sort. 
-Project 2 is an extension of project 1 that adds shell sort and merge sort to the framework.
-Project 4 excludes the three basic sorting algorithms but includes shell sort and merge sort from project 2. It adds heap sort to the framework.
+
+  - Project 1 includes three basic sorting algorithms: bubble, selection, and insertion sort. 
+  - Project 2 is an extension of project 1 that adds shell sort and merge sort to the framework.
+  - Project 4 excludes the three basic sorting algorithms but includes shell sort and merge sort from project 2. It adds heap sort to the framework.
